@@ -1,10 +1,5 @@
 {
-  "projectSettings": {
-    "framework": "vite",
-    "rootDirectory": "frontend",
-    "outputDirectory": "dist"
-  },
-  "buildCommand": "npm run build",
-  "devCommand": "npm run dev",
-  "outputDirectory": "dist"
+  "buildCommand": "cd frontend && npm run build",
+  "devCommand": "cd frontend && npm run dev",
+  "outputDirectory": "frontend/dist"
 }
