@@ -1,0 +1,10 @@
+{
+  "projectSettings": {
+    "framework": "vite",
+    "rootDirectory": "frontend",
+    "outputDirectory": "dist"
+  },
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "outputDirectory": "dist"
+}
